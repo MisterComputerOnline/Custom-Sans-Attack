@@ -16,7 +16,7 @@
 0.25,SansHead,Default,,,,,,,,,
 0,SansTorso,Default,,,,,,,,,
 0,SansAnimation,Idle,,,,,,,,,
-1,SansText,I really miss "that" time      we had at the beggining.,,,,,,,,,
+1,SansText,I really miss the peaceful      time we had at the    beggining.,,,,,,,,,
 0,SansTorso,Default,,,,,,,,,
 0,SansHead,ClosedEyes,,,,,,,,,
 1.6,SansHead,NoEyes,,,,,,,,,
@@ -217,4 +217,5 @@
 2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;
 2,GasterBlaster,3,-20,330,20,330,360,0.3,0.2;
 2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;
+
 5,EndAttack,,,,,,,
