@@ -47,8 +47,8 @@
 0,SansBody,HandUp,,,,,,,,,
 0,HeartMode,1,,,,,,,,,
 0,SansSlam,3,,,,,,,,,
-0.4,BoneStab,3,40,0.3,0.5,,,,
-0,Gasterblaster,1,1000,1000,90,250,0,0.5,1.8,,
+0.4,BoneStab,3,40,0.3,0.5,,,,,,
+0,Gasterblaster,1,1000,1000,90,250,0,0.5,1.8,,,,
 0.6,SansBody,HandDown,,,,,,,
 0,GasterBlaster,1,100,200,320,176,90,0.5,0.2;
 0,SansSlam,1,,,,,,,
@@ -219,6 +219,7 @@
 2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;
 
 5,EndAttack,,,,,,,
+
 
 
 
