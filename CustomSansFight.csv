@@ -69,16 +69,16 @@
 0.01,CombatZoneResize,209,271,434,346,,,,,,
 0,HeartTeleport,320,376,,,,,,,,
 0,HeartMode,1,,,,,,,,,
-0,BoneVRepeat,600,310,25,2,160,19,140;,
-0,BoneVRepeat,0,282,25,0,160,19,140;,
-2,GasterBlaster,3,-20,330,20,330,360,0.3,0.2;
-2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;
-2,GasterBlaster,3,-20,330,20,330,360,0.3,0.2;
-2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;
-2,GasterBlaster,3,-20,330,20,330,360,0.3,0.2;
-2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;
-2,GasterBlaster,3,-20,330,20,330,360,0.3,0.2;
-2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;
+0,BoneVRepeat,600,310,25,2,160,19,140;,,,
+0,BoneVRepeat,0,282,25,0,160,19,140;,,,
+2,GasterBlaster,3,-20,330,20,330,360,0.3,0.2;,,
+2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;,,
+2,GasterBlaster,3,-20,330,20,330,360,0.3,0.2;,,
+2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;,,
+2,GasterBlaster,3,-20,330,20,330,360,0.3,0.2;,,
+2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;,,
+2,GasterBlaster,3,-20,330,20,330,360,0.3,0.2;,,
+2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;,,
 0,SansTorso,Default,,,,,,,,,
 0,SansHead,ClosedEyes,,,,,,,,,
 0,SansText,Heh. You better be ready because this time.,,,,,,,
@@ -218,6 +218,7 @@
 2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;
 
 5,EndAttack,,,,,,,
+
 
 
 
