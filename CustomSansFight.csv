@@ -1,5 +1,5 @@
 0.01,CombatZoneResizeInstant,70,226,600,391,,,,,,,
-0.01,CombatZoneResize,239,226,404,391,,,,,,,
+0.01,CombatZoneResize,239,226,404,391,,,,,,
 0,HeartTeleport,320,376,,,,,,,,
 0,HeartMode,1,,,,,,,,,
 0,SansHead,ClosedEyes,,,,,,,,,
@@ -215,4 +215,5 @@
 2,GasterBlaster,3,-20,330,20,330,360,0.3,0.2,,,
 2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2,,,
 5,EndAttack,,,,,,,,,,,
+
 
