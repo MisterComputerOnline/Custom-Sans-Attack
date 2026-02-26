@@ -2,7 +2,7 @@ Time,Command,Size,StartX,StartY,EndX,EndY,Angle,Delay,BeamTime,Extra1,Extra2
 0.01,CombatZoneResizeInstant,70,226,600,391,,,,,,
 0.01,CombatZoneResize,239,226,404,391,,,,,,
 0,HeartTeleport,320,376,,,,,,,,,
-0,HeartMode,1,,,,,,,,,,
+0,HeartMode,1,,,,,,,,,
 0,SansHead,ClosedEyes,,,,,,,,,
 0,SansText,So...,,,,,,,,,
 0,SansHead,,,,,,,,,,
@@ -30,7 +30,7 @@ Time,Command,Size,StartX,StartY,EndX,EndY,Angle,Delay,BeamTime,Extra1,Extra2
 0,SansTorso,Shrug,,,,,,,,,
 0,SansText,But...,,,,,,,,,
 0,SansTorso,Default,,,,,,,,,
-0,SansText,something tells me.,,,,,,,,Intro,
+0,SansText,something tells me.,,,,,,,,,Intro,
 0,SansHead,BlueEye,,,,,,,,,
 0,SansTorso,Shrug,,,,,,,,,
 0,Gasterblaster,1,1000,1000,390,55,90,99999,1.8,,
@@ -51,7 +51,7 @@ Time,Command,Size,StartX,StartY,EndX,EndY,Angle,Delay,BeamTime,Extra1,Extra2
 0.4,BoneStab,3,40,0.3,0.5,,,,,,
 0,Gasterblaster,1,1000,1000,90,250,0,0.5,1.8,,
 0.6,SansBody,HandDown,,,,,,,,,
-0,GasterBlaster,1,100,200,320,176,90,0.5,0.2,,,,
+0,GasterBlaster,1,100,200,320,176,90,0.5,0.2,,
 0,SansSlam,1,,,,,,,,,
 0.4,BoneStab,1,40,0.3,0.5,,,,,,
 0.6,SansBody,HandLeft,,,,,,,,,
@@ -435,6 +435,7 @@ Time,Command,Size,StartX,StartY,EndX,EndY,Angle,Delay,BeamTime,Extra1,Extra2
 2,GasterBlaster,3,-20,330,20,330,360,0.3,0.2;
 2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;
 5,EndAttack,,,,,,,
+
 
 
 
