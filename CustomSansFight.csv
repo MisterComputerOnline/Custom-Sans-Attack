@@ -27,7 +27,7 @@
 0,SansText,did you choose your final      decision?,,,,,,,,,
 0,SansHead,LookLeft,,,,,,,,,
 0,SansTorso,Shrug,,,,,,,,,
-0,SansText,But,,,,,,,,,,
+0,SansText,But...,,,,,,,,,
 0,SansTorso,Default,,,,,,,,,
 0,SansText,something tells me.,,,,,,,,,Intro
 0,SansHead,BlueEye,,,,,,,,,
@@ -219,3 +219,4 @@
 2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;
 
 5,EndAttack,,,,,,,
+
