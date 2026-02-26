@@ -80,7 +80,7 @@
 2,GasterBlaster,3,-20,330,20,330,360,0.3,0.2;,,
 2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;,,
 0,SansTorso,Default,,,,,,,,,
-0,SansHead,ClosedEyes,,,,,,,,,,,
+0,SansHead,ClosedEyes,,,,,,,,,
 0,SansText,Heh. You better be ready because this time.,,,,,,,,,
 0,SansHead,NoEyes,,,,,,,,,,,
 0,SansText,I won't let you win.,,,,,,,,,
@@ -218,6 +218,7 @@
 2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;
 
 5,EndAttack,,,,,,,
+
 
 
 
