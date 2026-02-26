@@ -38,7 +38,7 @@
 0.1,SansText,That you chose it a long     time ago.,,,,,,,,,
 0,mus_zz_megalovania,1,,,,,,,,,
 0,BlackScreen,1,,,,,,,,,
-0,Sound,Megalovania,,,,,,,
+0,Sound,Megalovania,,,,,,,,,
 0,SansHead,Default,,,,,,,,,
 0.1,Sound,Flash,,,,,,,,,
 0,Gasterblaster,1,250,55,250,55,90,0.5,0.3,,
@@ -219,4 +219,5 @@
 2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;
 
 5,EndAttack,,,,,,,
+
 
