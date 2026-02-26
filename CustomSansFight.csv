@@ -55,19 +55,19 @@
 0.4,BoneStab,1,40,0.3,0.5,,,,,,
 0.6,SansBody,HandLeft,,,,,,,,,
 0,SansSlam,2,,,,,,,,,
-0.4,BoneStab,2,40,0.3,0.5,,,,
+0.4,BoneStab,2,40,0.3,0.5,,,,,,
 0,Gasterblaster,1,1000,1000,270,40,90,0.5,1.4,,
-0.6,SansBody,HandRight,,,,,,,
-0,SansSlam,0,,,,,,,
-0.4,BoneStab,0,40,0.3,0.5,,,,
-0.6,SansBody,HandDown,,,,,,,
-0,SansSlam,1,,,,,,,
-0.4,BoneStab,1,40,0.3,0.5,,,,
-0.6,SansBody,HandRight,,,,,,,
-0,SansSlam,0,,,,,,,
-0.4,BoneStab,0,40,0.3,0.5,,,,
+0.6,SansBody,HandRight,,,,,,,,,
+0,SansSlam,0,,,,,,,,,
+0.4,BoneStab,0,40,0.3,0.5,,,,,,
+0.6,SansBody,HandDown,,,,,,,,,
+0,SansSlam,1,,,,,,,,,
+0.4,BoneStab,1,40,0.3,0.5,,,,,,
+0.6,SansBody,HandRight,,,,,,,,,
+0,SansSlam,0,,,,,,,,,
+0.4,BoneStab,0,40,0.3,0.5,,,,,,
 ### ADJUSTED BOX DIMENSIONS (75px Height)
-0.01,CombatZoneResize,209,271,434,346,,,,,,
+0.01,CombatZoneResize,209,271,434,346,,,,,,,,
 0,HeartTeleport,320,376,,,,,,,,
 0,HeartMode,1,,,,,,,,,
 0,BoneVRepeat,600,310,25,2,160,19,140;,
@@ -219,6 +219,7 @@
 2,GasterBlaster,3,-20,290,20,290,360,0.3,0.2;
 
 5,EndAttack,,,,,,,
+
 
 
 
